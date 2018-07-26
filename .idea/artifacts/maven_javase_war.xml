@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maven_javase:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="maven_javase-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="maven_javase:war exploded" />
+    </root>
+  </artifact>
+</component>
